@@ -39,9 +39,9 @@ npm start
 
 3. Open http://localhost:3000 in your browser
 
-## Docker Setup (For Assignment Submission)
+## Docker Setup
 
-This is the main part for grading. The site needs to run on port 5575 in a Docker container.
+The site needs to run on port 5575 in a Docker container.
 
 ### Build the Docker Image
 
