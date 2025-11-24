@@ -56,7 +56,7 @@ The Dockerfile does a two-stage build:
 ### Run the Container
 
 ```bash
-docker run -p 5575:5575 li_gavin_coding_assignment14
+docker run -d --name li_gavin_coding_assignment14 -p 5575:5575 li_gavin_coding_assignment14
 ```
 
 This will:
